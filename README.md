@@ -1,1 +1,1 @@
-# JavaScriptWeekend_1_Assignment
+# JS Weekend 1 Assignment
